@@ -221,6 +221,8 @@
       collection: MaleMoans # Corvax-Wega
     FilinidMeows: # Corvax-Wega
       collection: FelinidMeowsSound # Corvax-Wega
+    SlimeBubble: # Corvax-Wega
+      collection: SlimeBubbles # Corvax-Wega
   params:
     variation: 0.125
 
@@ -270,6 +272,8 @@
       collection: FemaleMoans # Corvax-Wega
     FilinidMeows: # Corvax-Wega
       collection: FelinidMeowsSound # Corvax-Wega
+    SlimeBubble: # Corvax-Wega
+      collection: SlimeBubbles # Corvax-Wega
   params:
     variation: 0.125
 
@@ -589,6 +593,8 @@
       collection: MaleDeathGasp
     FilinidMeows: # Corvax-Wega
       collection: FelinidMeowsSound # Corvax-Wega
+    Ururu: # Corvax-Wega
+      collection: VulpakinUruru # Corvax-Wega
 
 - type: emoteSounds
   id: FemaleVulpkanin
@@ -634,6 +640,8 @@
       collection: FemaleDeathGasp
     FilinidMeows: # Corvax-Wega
       collection: FelinidMeowsSound # Corvax-Wega
+    Ururu: # Corvax-Wega
+      collection: VulpakinUruru # Corvax-Wega
 
 # body emotes
 - type: emoteSounds
