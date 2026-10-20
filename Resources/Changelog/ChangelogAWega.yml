@@ -1571,3 +1571,58 @@ Entries:
   id: 214
   time: '2026-10-17T12:51:01Z'
   url: https://github.com/wega-team/ss14-wega/pull/563
+- author: GaMEWAR360
+  changes:
+  - type: Tweak
+    message: Логигка работы комбенизона акробата, теперь запрет идёт исключительно на проход в вентиляцию
+  id: 215
+  time: '2026-10-17T15:48:49Z'
+  url: https://github.com/wega-team/ss14-wega/pull/566
+- author: Zekins3366
+  changes:
+  - type: Tweak
+    message: Незначительно изменена Ишимура
+  - type: Tweak
+    message: Относительно чего-то там изменен Марафон
+  - type: Add
+    message: Добавлено некоторое количество ролей на Марафон и Ишимуру
+  - type: Fix
+    message: Исправлена загрузка некоторых карт
+  id: 216
+  time: '2026-10-17T23:39:10Z'
+  url: https://github.com/wega-team/ss14-wega/pull/568
+- author: Zekins3366
+  changes:
+  - type: Add
+    message: Всем расам добавлено моргание (кроме Андроидов, Фантомов и Резоми).
+  - type: Fix
+    message: Исправлено отображение всех направленных объектов в сборке.
+  id: 217
+  time: '2026-10-18T00:55:56Z'
+  url: https://github.com/wega-team/ss14-wega/pull/569
+- author: KRIKUN12
+  changes:
+  - type: Tweak
+    message: респрайт 2 овощей и нори листика
+  id: 218
+  time: '2026-10-19T12:11:24Z'
+  url: https://github.com/wega-team/ss14-wega/pull/571
+- author: Zekins3366
+  changes:
+  - type: Add
+    message: Добавлена TTS озвучка сообщений с майндчата
+  - type: Tweak
+    message: Изменена дальности слышимости майндчата в 2 раза
+  - type: Fix
+    message: Исправлена ошибочка при появлении пентаграммы у обоих культов над головой
+  - type: Fix
+    message: Исправлена слышимость майдчата в целом
+  - type: Fix
+    message: Исправлена работа TTS (наверно)
+  - type: Fix
+    message: Исправлена работа Барков
+  - type: Fix
+    message: Исправлено отображение имён формата голосов у некоторых рас
+  id: 219
+  time: '2026-10-19T23:39:48Z'
+  url: https://github.com/wega-team/ss14-wega/pull/572
